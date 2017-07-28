@@ -1,0 +1,7 @@
+[package]
+name = "ld39"
+version = "0.1.0"
+authors = ["DevOrc <ncharlton002@gmail.com>"]
+
+[dependencies]
+cannon = {path="../cannon"}#See the Cannon Repository.
