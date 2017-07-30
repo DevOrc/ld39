@@ -4,4 +4,6 @@ version = "0.1.0"
 authors = ["DevOrc <ncharlton002@gmail.com>"]
 
 [dependencies]
-cannon = {path="../cannon"}#See the Cannon Repository.
+cannon = {path="../cannon"}
+chroniker = "0.5.0"
+rand = "0.3.16"

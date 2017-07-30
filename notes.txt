@@ -1,0 +1,13 @@
+Sunday Todo:
+
+
+
+
+-----------------------------------------------
+-Add Titles
+-Restrict Movement within the world for the player
+-Add a reset ash rate powerup
+-Add instructions at the top
+-Add more stats to the top (World size, Mouse Position, etc)
+-Add a way to reset
+-Add a main menu
